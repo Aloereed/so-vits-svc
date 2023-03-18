@@ -35,8 +35,8 @@ https://huggingface.co/Plutoisy/pt_file/tree/main
 # contentvec
 # 由于作者提供的网盘没有直链，所以需要手动下载放在hubert目录
 # G与D预训练模型:
-wget -P logs/44k/ https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/G_0.pth
-wget -P logs/44k/ https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/D_0.pth
+wget -P logs/44k/ https://huggingface.co/therealvul/so-vits-svc-4.0-init/resolve/main/G_0.pth
+wget -P logs/44k/ https://huggingface.co/therealvul/so-vits-svc-4.0-init/resolve/main/D_0.pth
 
 ```
 
