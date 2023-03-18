@@ -25,7 +25,7 @@ https://huggingface.co/Plutoisy/pt_file/tree/main
 在线demo：[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/innnky/sovits4)
 
 ## 预先下载的模型文件
-+ contentvec ：[checkpoint_best_legacy_500.pt](https://ibm.box.com/s/z1wgl1stco8ffooyatzdwsqn2psd9lrr)
++ contentvec ：[checkpoint_best_legacy_500.pt](https://huggingface.co/justinjohn-03/so-vits-svc-4.0/resolve/main/checkpoint_best_legacy_500.pt)
   + 放在`hubert`目录下
 + 预训练底模文件： [G_0.pth](https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/G_0.pth) 与 [D_0.pth](https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/D_0.pth)
   + 放在`logs/44k`目录下
